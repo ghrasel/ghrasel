@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ghrasel
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning mathematics 
-- 💞️ I’m looking to collaborate on AI
+- 👋 Hi, I’m Rasel
+- 👀 I’m interested in coding and developing 
+- 🌱 I’m currently learning mathematics and statistics 
+- 💞️ I’m looking to collaborate on AI and machine learning 
 - 📫 How to reach me ...
 
 <!---
